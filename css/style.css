@@ -65,6 +65,7 @@
 
 /* lorem text */
 .lt-lorem-text{
-    /* font-size: 1rem; */
+    font-size: 1.25rem;
     color: #617d98;
+    padding-bottom: 4rem;
 }
